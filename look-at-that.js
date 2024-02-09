@@ -31,11 +31,9 @@ var keyDown = (e)=>{
 	//console.log(e.which)
 	console.log('pullfocus keyDown')
 	if(e.which == 80 && game.user.isGM && overCanvas){
-	
-		var mouse = canvas.app.renderer.plugins.interaction.mouse.getLocalPosition(canvas.tokens);
+		var mouse = canvas.mousePosition;
 		//console.log(mouse);
 	 	PullFocus.pullFocus(mouse);
-		
 	}
 }
 //var pullFocus = () => console.log('pullFocus',mouseX,mouseY);
