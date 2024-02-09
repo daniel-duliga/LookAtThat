@@ -10,8 +10,8 @@
   	"look-at-that.js"
   ],
   "socket": true,
-  "changelog":"https://raw.githubusercontent.com/wsaunders1014/LookAtThat/master/README.md",
-  "url":"https://github.com/wsaunders1014/LookAtThat",
-  "manifest":"https://raw.githubusercontent.com/wsaunders1014/LookAtThat/master/module.json",
-  "download":"https://github.com/wsaunders1014/LookAtThat/archive/master.zip"
+  "changelog":"https://raw.githubusercontent.com/daniel-duliga/LookAtThat/master/README.md",
+  "url":"https://github.com/daniel-duliga/LookAtThat",
+  "manifest":"https://raw.githubusercontent.com/daniel-duliga/LookAtThat/master/module.json",
+  "download":"https://github.com/daniel-duliga/LookAtThat/archive/master.zip"
 }
